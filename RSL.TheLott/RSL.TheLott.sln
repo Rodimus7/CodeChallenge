@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSL.TheLott", "RSL.TheLott.csproj", "{A3DE317B-FE40-43E6-B165-775D9EA626FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheLott.Test", "..\TheLott.Test\TheLott.Test.csproj", "{B2D32823-D003-4167-8E6C-04C941D6A842}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3DE317B-FE40-43E6-B165-775D9EA626FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3DE317B-FE40-43E6-B165-775D9EA626FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3DE317B-FE40-43E6-B165-775D9EA626FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3DE317B-FE40-43E6-B165-775D9EA626FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2D32823-D003-4167-8E6C-04C941D6A842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D32823-D003-4167-8E6C-04C941D6A842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D32823-D003-4167-8E6C-04C941D6A842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D32823-D003-4167-8E6C-04C941D6A842}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1613A61C-92DB-4674-A41B-0C0B30946734}
+	EndGlobalSection
+EndGlobal
